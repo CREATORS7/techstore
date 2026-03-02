@@ -1,0 +1,7 @@
+techstore/
+│
+├── index.html
+├── product.html
+├── cart.html
+├── style.css
+└── script.js
